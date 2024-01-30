@@ -2,8 +2,11 @@
 
 ## :dart: Ziele:
 
-1. Clont das Repo in zwei verschiedene Ordner (stellen zwei verschiedene User dar).
-2. Stellt dann den Verlauf des Repositories auf dem Aufgabenblatt nach.
+1. **Clont** das Repo in zwei verschiedene Ordner (stellen zwei verschiedene User dar).
+2. Stellt dann den Verlauf des Repositories auf dem **Aufgabenblatt** nach.
+3. Nutzt dazu bestenfalls eine **Vierteilung** eures Bildschirms:
+  - 1x git Bash und 1x Dateiexplorer (*User 1*)
+  - 1x git Bash und 1x Dateiexplorer (*User 2*)
 
 ## :pushpin: Aufgabenblatt:
 
